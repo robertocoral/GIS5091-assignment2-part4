@@ -8,8 +8,8 @@ var Stamen_Terrain = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}
 
 $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-programming-for-gis-and-rs/master/Web%20Development%20Module/Unit%201%20-%20GitHub%20and%20Leaflet/sf_crime.geojson",function(data){
     var crimeIcon = L.icon({
-      iconUrl: 'https://www.s4g.com/thumbnail.asp?file=assets/images/mighty-mouse.jpg&maxx=400&maxy=0',
-      iconSize: [50,50]
+      iconUrl: 'icon.png',
+      iconSize: [70,70]
     });
     var crime = L.geoJson(data,{
       pointToLayer: function(feature,latlng){
