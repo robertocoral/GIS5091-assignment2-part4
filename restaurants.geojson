@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Brasserie by Niche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26491910219193,
+          38.640694710948964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Vicia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25215849280357,
+          38.63595877940211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Blood & Sand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.20136952400208,
+          38.63202712141835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Cafe Napoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.33658102154732,
+          38.649838855774426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Elaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25538586080074,
+          38.61936640926485
+        ]
+      }
+    }
+  ]
+}
